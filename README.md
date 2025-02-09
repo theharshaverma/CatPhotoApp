@@ -38,8 +38,6 @@ All you need is a text editor (like VS Code, Sublime Text, or Notepad++) and a w
 ```
 html-cat-photo-app/
 │── index.html  # Main HTML file
-│── style.css   # Optional CSS file for styling
-│── images/     # Folder containing cat images
 ```
 
 ## 🚀 Usage
