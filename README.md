@@ -28,7 +28,7 @@ All you need is a text editor (like VS Code, Sublime Text, or Notepad++) and a w
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/html-cat-photo-app.git
+   git clone https://github.com/theharshaverma/CatPhotoApp.git
    ```
 2. Open the project folder and edit the `index.html` file.
 3. Open `index.html` in your browser to see the cat photo app in action.
