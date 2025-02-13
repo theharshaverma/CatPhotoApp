@@ -51,7 +51,9 @@ html-cat-photo-app/
 Feel free to contribute by adding new features or improving the design. Simply fork the repository and submit a pull request.
 
 Happy coding! 🐱
-![App Screenshot](./images/screenshot(62).png)
-![App Screenshot](./images/screenshot(63).png)
+![Screenshot](./images/Screenshot%20(62).png)
+![Screenshot](./images/Screenshot%20(63).png)
+
+
 
 
