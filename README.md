@@ -50,13 +50,8 @@ html-cat-photo-app/
 
 Feel free to contribute by adding new features or improving the design. Simply fork the repository and submit a pull request.
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## ❤️ Acknowledgments
-
-Special thanks to all web development enthusiasts who are passionate about learning HTML!
-
 Happy coding! 🐱
+![App Screenshot](./images/screenshot(62).png)
+![App Screenshot](./images/screenshot(63).png)
+
 
