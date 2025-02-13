@@ -1,6 +1,6 @@
-# HTML Tags & Cat Photo App
+# Cat Photo App
 
-Welcome to the **HTML Tags & Cat Photo App** repository! This project is designed to help you learn the most common HTML tags by building a simple and fun cat photo app.
+Welcome to the **Cat Photo App** repository! This project is designed to help you learn the most common HTML tags by building a simple and fun cat photo app.
 
 ## 📌 About This Project
 
